@@ -7,13 +7,13 @@
   "author": "Gabriel Reis <jgabreis@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "hapi": "^17.2.0"
+    "@hapi/hapi": "^21.2.0"
   },
   "dependencies": {
-    "boom": "^7.1.1",
-    "firebase-admin": "^5.10.0"
+    "@hapi/boom": "^10.0.0",
+    "firebase-admin": "^13.0.1"
   },
   "peerDependencies": {
-    "hapi": ">= 17"
+    "@hapi/hapi": ">= 21"
   }
 }
